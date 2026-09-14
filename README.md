@@ -79,5 +79,5 @@ Student-Database-Management-System/
 
 This project demonstrates the practical use of **classes, functions, file handling, input validation, and basic CRUD operations** in C++. It is suitable as a beginner-level project for learning how student records can be managed using a console-based application.
 
-##Author
+## Author
 Rhea Cathrine Chella
